@@ -116,7 +116,7 @@ summary(total_steps2)
 
 Type of Estimate | Mean_Steps | Median_Steps
 --- | --- | ---
-First Part (with na) | 10766.19 | 10765
+First Part (with na) | 10766 | 10765
 Second Part (fillin in na with median) | 9354.23 | 10395
 
 ## Are there differences in activity patterns between weekdays and weekends?
